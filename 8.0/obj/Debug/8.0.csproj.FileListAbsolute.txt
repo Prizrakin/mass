@@ -1,0 +1,11 @@
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\bin\Debug\8.0.exe.config
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\bin\Debug\8.0.exe
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\bin\Debug\8.0.pdb
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\obj\Debug\8.0.csprojAssemblyReference.cache
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\obj\Debug\_8._0.Form1.resources
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\obj\Debug\_8._0.Properties.Resources.resources
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\obj\Debug\8.0.csproj.GenerateResource.cache
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\obj\Debug\8.0.csproj.CoreCompileInputs.cache
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\obj\Debug\8.0.exe
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\obj\Debug\8.0.pdb
+D:\Програмы\Visual Stodio\Роботы\8.0\8.0\obj\Debug\_8._0.Form2.resources
